@@ -10,35 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29c290ad-2085-4b93-a41b-d513841be2b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01835436-2af0-4f22-a43f-e1d6d597e3d6/dashboard12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0b05c61e-3221-442f-a195-11219af7b68c/dashboard7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0ee47c92-26eb-4e39-9fcb-1d851445dc7c/-/resize/20x/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a405be3-415a-4352-8767-b6b21e86b6b3/-/empty/Stas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a405be3-415a-4352-8767-b6b21e86b6b3/Stas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21cf1a23-95a5-4bd3-aca1-76ccc01e0972/get2213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2b9e6fd0-9e28-4885-a972-e1414eb4e590/-/resize/20x/photo142855067022515f007f6f1ba.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2c826f92-954c-48a9-8f02-0217ba558a1c/-/resize/20x/photo1429080315210feb3fc5c001d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3ffdf383-2313-468a-9898-dd0428977896/get2216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/497758fc-5480-4a8f-be6d-bbb4157c3aab/get2218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4a75c36c-1919-43d5-933f-c3be9149640e/dashboard9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4deb2109-19f0-42f1-98d9-fa2c772831d6/get2214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5b156ccf-c05b-4aed-869f-6e921eb0ba51/get2215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6b83ca7a-7d8d-413e-8e18-218203a7116a/-/empty/Vsevolod.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6b83ca7a-7d8d-413e-8e18-218203a7116a/Vsevolod.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7b1f72c8-ba03-4c48-983d-ea0e75e90d5f/get2219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/806a3c20-22bf-41ee-bf3f-2877abfe2748/dashboard5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/825266ac-89ba-45e3-b0ca-bfe170e215a0/get2222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/92b766c2-f3d2-4388-9ab5-7ae4233111d5/get2220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/94c274d7-f810-4097-b964-6f283a29510d/dashboard10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/95784c8f-04bc-4635-a380-8883e0047d43/-/empty/get229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9d5974bc-c214-409a-bac1-e2a0acb44db5/get2217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ae21b645-3968-45c0-9f21-a965486ef455/get2212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bbdd80f8-7101-4b73-8102-aba72c4a764f/get2210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/c283fecb-ba68-4c9a-9eaf-1da99679720f/get2211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cb85f0b0-d466-490a-a6b4-d7ddbcad35e3/-/empty/Alexey.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cb85f0b0-d466-490a-a6b4-d7ddbcad35e3/Alexey.jpg" beforeDir="false" />
+    <list default="true" id="29c290ad-2085-4b93-a41b-d513841be2b0" name="Default Changelist" comment="move files">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +37,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,8 +55,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606242025004</updated>
-      <workItem from="1606242026110" duration="2293000" />
+      <workItem from="1606242026110" duration="2686000" />
     </task>
+    <task id="LOCAL-00001" summary="removed all files">
+      <created>1606244448817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606244448817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="move files">
+      <created>1606244594624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606244594624</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +88,20 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed all files" />
+    <MESSAGE value="move files" />
+    <option name="LAST_COMMIT_MESSAGE" value="move files" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="497" y="144" width="424" height="520" key="FileChooserDialogImpl" timestamp="1606244557741">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="497" y="144" width="424" height="520" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1606244557741" />
+    <state x="314" y="119" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1606244596164">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="119" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1606244596164" />
     <state x="410" y="136" width="618" height="522" key="find.popup" timestamp="1606243585634">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
